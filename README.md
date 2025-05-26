@@ -1,6 +1,6 @@
 # 🏥 Healthcare Dashboard – Static React UI
 
-A pixel-perfect, responsive React dashboard UI based on the [provided reference design](https://i.ibb.co/B2DdGkgF/Screenshot-2025-05-23-at-3-31-31-PM.png). This static dashboard demonstrates modern UI architecture, layout precision, and reusable component design in React.
+A pixel-perfect, responsive React dashboard UI. This static dashboard demonstrates modern UI architecture, layout precision, and reusable component design in React.
 
 ## 📸 Live Demo
 
