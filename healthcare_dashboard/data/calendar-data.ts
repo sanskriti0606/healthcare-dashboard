@@ -1,6 +1,6 @@
 export const calendarData = {
   month: "October",
-  year: 2021,
+  year: 2025,
   days: [
     {
       dayOfWeek: "Mon",
