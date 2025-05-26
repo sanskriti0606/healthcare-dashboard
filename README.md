@@ -4,11 +4,11 @@ A pixel-perfect, responsive React dashboard UI based on the [provided reference 
 
 ## 📸 Live Demo
 
-👉 [Visit Live Dashboard](https://your-live-url.vercel.app)a
+👉 https://healthcare-dashboard-delta-five.vercel.app/
 
 ## 📂 GitHub Repository
 
-👉 [View Source Code](https://github.com/your-username/healthcare-dashboard)
+👉 https://github.com/sanskriti0606/healthcare-dashboard
 
 ---
 
@@ -65,4 +65,7 @@ Fully static display. No click, hover, or data fetching logic exists.
 No backend integration.
 
 Resume is not included in this repository and provided separately.
+
+![image](https://github.com/user-attachments/assets/29989eec-67ec-4643-92d2-5cd5ef61b4d3)
+
 
