@@ -38,8 +38,6 @@ Icons: Lucide React & Font Awesome
 
 Assets: Open-source SVGs and placeholders
 
-Deployment: Vercel
-
 ## 🧱 Data Mocking
 All UI content is generated from mock data located in src/data/. Data is passed via props, allowing complete separation of concerns between layout and content.
 
